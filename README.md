@@ -6,3 +6,11 @@ I have started creating this website to explore not only web development, but al
 
 ![starting](https://github.com/Daksh-404/universe-today-web-site/blob/master/Web%20Dev/screenshots/ss1.PNG)
 
+
+![middle](https://github.com/Daksh-404/universe-today-web-site/blob/master/Web%20Dev/screenshots/ss2.PNG)
+
+![middle](https://github.com/Daksh-404/universe-today-web-site/blob/master/Web%20Dev/screenshots/ss3.PNG)
+
+![middle](https://github.com/Daksh-404/universe-today-web-site/blob/master/Web%20Dev/screenshots/ss4.PNG)
+
+![last](https://github.com/Daksh-404/universe-today-web-site/blob/master/Web%20Dev/screenshots/ss5.PNG)
