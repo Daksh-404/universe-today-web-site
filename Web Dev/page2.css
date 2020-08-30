@@ -1,0 +1,44 @@
+table
+{
+  border: 2px solid black;
+  margin:30px auto;
+  width:50%;
+}
+h1
+{
+  font-family: 'Cinzel', serif;
+}
+td
+{
+  width:100px;
+  height: 100px;
+  text-align: center;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 2.0rem;
+}
+.left
+{
+  border-right: 2px solid black;
+}
+.bottom
+{
+  border-bottom: 2px solid black;
+}
+.wrapper
+{
+  text-align: center;
+  margin-bottom: 100px;
+}
+.submit
+{
+  position: absolute;
+}
+.wrapper input
+{
+  font-family: 'Frank Ruhl Libre', serif;
+}
+marquee
+{
+  background-color: yellow;
+  color:green;
+}
