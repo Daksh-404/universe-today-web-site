@@ -4,5 +4,5 @@ I have started creating this website to explore not only web development, but al
 
 # Images/Screenshots
 
-![starting](Web Dev/screenshots/ss1.PNG)
+![starting](https://github.com/Daksh-404/universe-today-web-site/blob/master/Web%20Dev/screenshots/ss1.PNG)
 
